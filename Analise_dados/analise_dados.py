@@ -1,8 +1,3 @@
-# Analisando os Dados Sobre Cancelamento de Clientes
-
-# Pepercer da base total de clientes inativos, ou seja, que já cancelaram o serviço. Conseguir entender os principais motivos desses cancelamentos e quais as ações mais eficientes para reduzir esse número.
-
-
 import pandas as pd
 import plotly.express as px
 
